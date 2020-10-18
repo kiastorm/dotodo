@@ -1,0 +1,4 @@
+.cache
+node_modules
+packages/**/node_modules
+packages/www/public

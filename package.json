@@ -1,0 +1,12 @@
+{
+  "name": "dotodo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kiastorm/dotodo.git",
+  "author": "Kia Storm <mrkiastorm@gmail.com>",
+  "private": true,
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ]
+}
